@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=html,css,py)](https://skillicons.dev)
 
 <!--
 **pietramainini/pietramainini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
